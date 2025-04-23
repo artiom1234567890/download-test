@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 
-api_id = 21110563  # api_id-и худа
+api_id = 21110543  # api_id-и худа
 api_hash = "da423286193d849661ef25b9d9bb1abe"
 bot_token = "7840343781:AAHU9eSj-6X5OiRbMBz1UC5aQRm8GNqSgMA"
 
